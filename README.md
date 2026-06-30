@@ -1,4 +1,4 @@
-<h1>HELLO, I'M Oluwajimi Odunlami! <br/> 
+<h1> Hello, I'm Oluwajimi Odunlami! <br/> 
   <h2> [MAJOR TITLE] </h2>
 
 
