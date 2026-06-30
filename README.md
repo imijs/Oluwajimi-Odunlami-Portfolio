@@ -1,1 +1,16 @@
-# Oluwajimi-Odunlami-Portfolio
+<h1>HELLO, I'M [FULL NAME]! <br/> 
+  <h2> [MAJOR TITLE] </h2>
+
+
+  <h2> MY [MAJOR] PROJECTS:</h2>
+
+- <b>[COLLEGE/UNIVERSIRTY] [PROGRAM NAME]</b>
+  - [PROJECT #1 TITLE](LINK)
+  - [PROJECT #2 TITLE](LINK)
+  - [PROJECT #3 TITLE](LINK)
+ 
+<h2> MY WEBSITES:</h2>
+ 
+   - [WEBSITE #1 TITLE](LINK)
+   - [WEBSITE #2 TITLE](LINK)
+   - [WEBSITE #3 TITLE](LINK)
